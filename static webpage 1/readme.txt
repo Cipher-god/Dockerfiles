@@ -1,0 +1,1 @@
+Building Docker Image to deploy simple static webpage
